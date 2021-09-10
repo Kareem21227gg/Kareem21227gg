@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareem21227gg&label=Profile%20views&color=0e75b6&style=flat" alt="kareem21227gg" /> </p>
 
-- 🌱 I’m currently learning **web servicing and web crawling with golang.**
+- 🌱 I’m currently learning **web servicing with golang.**
 
 - 👯 I’m looking to collaborate on **any project go along with my skills.**
 
