@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain** and hope to master it
 
-- 👯 I’m looking to collaborate on **any project go along with my skills**
+- 👯 I’m looking to collaborate on **any project that gos along with my skills**
 
 - 💬 Ask me about **books, friday night movie, and music**
 
